@@ -17,31 +17,34 @@ One of my favorite projects, **Kolaru Pathigam**, is a released app available on
 
 ## 🚀 Skills & Technologies
 
+Below are some of the technologies and tools I work with:
+
 ### Languages & Frameworks
 - ![Kotlin](https://img.shields.io/badge/Kotlin-326CE5?style=for-the-badge&logo=kotlin&logoColor=white) **Kotlin**  
-  Native Android development with modern libraries.
+  For Android native development using modern libraries and architectures.
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) **Flutter**  
-  Building cross-platform mobile applications (e.g., Kolaru Pathigam was developed in Flutter).
+  For building cross-platform mobile applications; one of my apps has been released on the Play Store.
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) **Android Development**
 
-### Architectural Patterns & Android Jetpack
+### Architectural Patterns & Databinding
 - **MVVM Architecture**  
-  Clean separation of concerns using ViewModel, LiveData, and Data Binding.
-- **LiveData & Data Binding**  
-  For reactive UI updates.
-- **Retrofit**  
-  For robust RESTful API calls.
+  Clean separation of concerns between View, ViewModel, and Model.
+- **Data Binding & LiveData**  
+  Efficient binding between UI components and data streams for reactive updates.
 
-### Backend & Testing
+### Networking & Backend
+- ![Retrofit](https://img.shields.io/badge/Retrofit-FF6C37?style=for-the-badge&logo=retrofit&logoColor=white) **Retrofit**  
+  For robust RESTful API communication.
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) **Firebase**  
-  Anonymous user authentication and storing user data (like liked quotes).
-- **Unit Testing** with JUnit & Mockito/MockK.
-- **Espresso UI Testing** for reliable user workflows.
-- **Integration Testing** using AndroidX Test libraries.
+  For anonymous authentication and data storage (e.g., saving liked quotes).
 
-### CI/CD
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) **GitHub Actions**
-
----
+### Testing & CI/CD
+- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white) **Unit Testing**  
+  With JUnit and Mockito/MockK.
+- **Espresso UI Testing**  
+  To ensure smooth user experiences.
+- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) **CI/CD**  
+  Automated workflows using GitHub Actions.
 
 ## 🌟 Highlighted Project: Kolaru Pathigam
 
