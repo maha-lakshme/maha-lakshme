@@ -11,7 +11,8 @@ One of my favorite projects, **Kolaru Pathigam**, is a released app available on
 - 🔭 I’m currently working on innovative apps with robust architectures and comprehensive testing.
 - 🌱 I am always learning cutting edge development techniques and testing methodologies.
 - 💻 I love working with Android Jetpack components like LiveData, Data Binding, and Retrofit.
-- 📫 Feel free to reach out via [your.email@example.com](mailto:your.email@example.com).
+- 📫 Feel free to reach out via Email: [maha21.kanagaraj@gmail.com]
+
 
 ---
 
@@ -49,9 +50,10 @@ Below are some of the technologies and tools I work with:
 ## 🌟 Highlighted Project: Kolaru Pathigam
 
 **Kolaru Pathigam** is a mobile app that delivers the complete verses of the revered hymn dedicated to Lord Shiva. The app features:
-- **Dynamic quotes** retrieved from a Quotes API.
-- **Beautiful imagery** from the Pexels API.
-- **Anonymous Firebase authentication** and storage for liked verses.
+
+This app includes various features including the history and the benefits of reciting the pathigam and also provides detailed description of each hymn and available for android 
+With No ads and available offline.
+
   
 You can check it out on the [Google Play Store](https://play.google.com/store/apps/details?id=com.maha.kolaru_pathigam).
 ---
