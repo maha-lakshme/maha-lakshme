@@ -54,18 +54,6 @@ Below are some of the technologies and tools I work with:
 - **Anonymous Firebase authentication** and storage for liked verses.
   
 You can check it out on the [Google Play Store](https://play.google.com/store/apps/details?id=com.maha.kolaru_pathigam).
-
-### Screenshots of Kolaru Pathigam
-
-<div align="center">
-  <img src="images/kolaru_home.png" alt="Kolaru Pathigam Home Screen" width="250px" style="margin:10px;"/>
-  <img src="images/kolaru_detail.png" alt="Kolaru Pathigam Detail Screen" width="250px" style="margin:10px;"/>
-  <img src="images/kolaru_menu.png" alt="Kolaru Pathigam Menu" width="250px" style="margin:10px;"/>
-  <img src="images/kolaru_auth.png" alt="Kolaru Pathigam Authentication" width="250px" style="margin:10px;"/>
-</div>
-
-> **Note:** Replace the image paths (`images/kolaru_home.png`, etc.) with your actual screenshot files. You may store them in your repository (e.g. in an `images` or `screenshots` folder).
-
 ---
 
 ## 📂 Other Projects
@@ -75,24 +63,16 @@ Here are some other projects that showcase my skills and development approach:
 - **InspireVerse**  
   An Android project that delivers inspiring quotes with vibrant visuals and Firebase integration.
   
-- **QuotesApp**  
-  A personal project using MVVM, LiveData, Data Binding, and Retrofit to fetch quotes and images dynamically.
-
-*(Add additional projects here with relevant images and descriptions as needed.)*
-
-### More Project Screenshots
-
-<div align="center">
-  <img src="images/project_inspireverse.png" alt="InspireVerse Screenshot" width="250px" style="margin:10px;"/>
-  <img src="images/project_quotesapp.png" alt="QuotesApp Screenshot" width="250px" style="margin:10px;"/>
-</div>
-
+- **TMDB APP**  
+  App That Gets Latest Movies,TVShows,Artist From TMDB (The Movie Database)API Using MVVM Clean Architecture with JetPack component
+  
+- **GetGroomed**  
+Android App that Uses Public API that Lists MakeUp Products with stunning UI
 ---
 
 ## 📫 Connect with Me
 
 Feel free to connect and reach out if you have any questions or collaboration ideas!
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- [LinkedIn] (https://www.linkedin.com/in/maha-lakshmi-5ab962270/)
+- Email: [maha21.kanagaraj@gmail.com]
