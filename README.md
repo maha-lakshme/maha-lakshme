@@ -6,8 +6,8 @@ I'm a **Mobile App Developer** specializing in **Android (Kotlin)** and **Flutte
 
 ## 💼 About Me
 
-- 🔭 **Currently building** apps that integrate **on-device ML**, **LLMs (Gemini)**, and **BLE sensors**
-- 🌱 Learning **FastAPI**, **GraphQL**, and deepening my skills in **Firebase Crashlytics** and **LangChain**
+- 🔭 **Currently building** apps that integrate **on-device ML**, **LLMs (Gemini)**
+- 🌱 Learning **FastAPI**, **GraphQL**, and deepening my skills in **Firebase Crashlytics**
 - ⚡ Experienced with **Jetpack (LiveData, ViewModel, Data Binding)** and **Riverpod (Flutter)**
 - 💡 I combine creativity and code to build **intelligent, user-centric mobile experiences**
 
