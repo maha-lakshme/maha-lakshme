@@ -1,80 +1,79 @@
-# Hi there, I'm Maha 👋
+# 👋 Hi there, I'm Maha!
 
-I'm an experienced Android developer with a passion for building compelling, high-quality mobile applications. I work using both native Android (Kotlin) and Flutter (cross-platform), and my projects feature modern architectural patterns like MVVM along with Android Jetpack components.  
-
-One of my favorite projects, **Kolaru Pathigam**, is a released app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.maha.kolaru_pathigam).
+I'm a **Mobile App Developer** specializing in **Android (Kotlin)** and **Flutter**, passionate about crafting **AI-powered**, feature-rich mobile applications with modern design and clean architecture. I love working on projects that blend **machine learning**, **intuitive UX**, and meaningful user impact.
 
 ---
 
 ## 💼 About Me
 
-- 🔭 I’m currently working on innovative apps with robust architectures and comprehensive testing.
-- 🌱 I am always learning cutting edge development techniques and testing methodologies.
-- 💻 I love working with Android Jetpack components like LiveData, Data Binding, and Retrofit.
-- 📫 Feel free to reach out via Email: [maha21.kanagaraj@gmail.com]
-
+- 🔭 **Currently building** apps that integrate **on-device ML**, **LLMs (Gemini)**, and **BLE sensors**
+- 🌱 Learning **FastAPI**, **GraphQL**, and deepening my skills in **Firebase Crashlytics** and **LangChain**
+- ⚡ Experienced with **Jetpack (LiveData, ViewModel, Data Binding)** and **Riverpod (Flutter)**
+- 💡 I combine creativity and code to build **intelligent, user-centric mobile experiences**
 
 ---
 
 ## 🚀 Skills & Technologies
 
-Below are some of the technologies and tools I work with:
+### 🧩 Languages & Frameworks
+- **Kotlin** – Android native development with Jetpack libraries
+- **Flutter** – Cross-platform apps using Riverpod & animations
 
-### Languages & Frameworks
-- ![Kotlin](https://img.shields.io/badge/Kotlin-326CE5?style=for-the-badge&logo=kotlin&logoColor=white) **Kotlin**  
-  For Android native development using modern libraries and architectures.
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) **Flutter**  
-  For building cross-platform mobile applications; one of my apps has been released on the Play Store.
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) **Android Development**
+### 🏗️ Architecture & UI
+- **MVVM**, Clean Architecture, Material Design 3
+- **XML Layouts**, **Data Binding**, **LiveData**, **Navigation Component**
 
-### Architectural Patterns & Databinding
-- **MVVM Architecture**  
-  Clean separation of concerns between View, ViewModel, and Model.
-- **Data Binding & LiveData**  
-  Efficient binding between UI components and data streams for reactive updates.
+### 🤖 AI / ML Integration
+- **Google ML Kit** – OCR, Translation, Face Detection
+- **Gemini API** – Prompt generation, NLP for storytelling
+- **DALL·E API** – AI image generation
+- **Firebase ML**, **Crashlytics**, **Realtime Database**
 
-### Networking & Backend
-- ![Retrofit](https://img.shields.io/badge/Retrofit-FF6C37?style=for-the-badge&logo=retrofit&logoColor=white) **Retrofit**  
-  For robust RESTful API communication.
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) **Firebase**  
-  For anonymous authentication and data storage (e.g., saving liked quotes).
+### 🌐 Networking & Backend
+- **Retrofit**, **Dio**, **REST APIs**, **Firebase Auth**
+- Learning: **FastAPI**, **GraphQL**, **JWT authentication**
 
-### Testing & CI/CD
-- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white) **Unit Testing**  
-  With JUnit and Mockito/MockK.
-- **Espresso UI Testing**  
-  To ensure smooth user experiences.
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) **CI/CD**  
-  Automated workflows using GitHub Actions.
+### 🧪 Testing & DevOps
+- **JUnit**, **Mockito**, **Espresso UI testing**
+- **GitHub Actions** – CI/CD automation
 
-## 🌟 Highlighted Project: Kolaru Pathigam
-
-**Kolaru Pathigam** is a mobile app that delivers the complete verses of the revered hymn dedicated to Lord Shiva. The app features:
-
-This app includes various features including the history and the benefits of reciting the pathigam and also provides detailed description of each hymn and available for android 
-With No ads and available offline.
-
-  
-You can check it out on the [Google Play Store](https://play.google.com/store/apps/details?id=com.maha.kolaru_pathigam).
 ---
 
-## 📂 Other Projects
+## 🌟 Highlighted App: [Kolaru Pathigam]([https://play.google.com/store/apps/details?id=your.app.id](https://play.google.com/store/apps/details?id=com.maha.kolaru_pathigam))
 
-Here are some other projects that showcase my skills and development approach:
+A clean, offline-first spiritual Android app presenting the sacred hymn with detailed verses, history, and benefits of recitation – **ad-free and accessible**.
 
-- **InspireVerse**  
-  An Android project that delivers inspiring quotes with vibrant visuals and Firebase integration.
-  
-- **TMDB APP**  
-  App That Gets Latest Movies,TVShows,Artist From TMDB (The Movie Database)API Using MVVM Clean Architecture with JetPack component
-  
-- **GetGroomed**  
-Android App that Uses Public API that Lists MakeUp Products with stunning UI
+---
+
+## 🔥 Featured Projects
+
+### ✨ Creative Muse AI
+**Kotlin, Gemini API, Firebase, DALL·E**  
+AI-powered writing companion app for generating creative prompts, short stories, and illustrations.
+
+### 🥗 NutriScan AI
+**Flutter, Google ML Kit, Translation API**  
+Scans and translates nutrition labels with real-time AI insights for smarter food choices.
+
+### 💬 InspireVerse  
+**Android (Kotlin) + Firebase**  
+Motivational quote app with a beautiful UI and anonymous interactions.
+
+### 📝 DriveNotes
+**Flutter, Google Drive API, OAuth2, Riverpod (v2), flutter_secure_storage, Dio**  
+Secure note-taking app with Google login, encrypted local token storage, and seamless cloud sync using Google Drive.
+
+### 🎬 TMDB App  
+**Kotlin + Jetpack + Clean Architecture**  
+Fetches movies, shows, and actors using TMDB API with a scalable MVVM structure.
+
 ---
 
 ## 📫 Connect with Me
 
-Feel free to connect and reach out if you have any questions or collaboration ideas!
+- 📧 Email: [maha21.kanagaraj@gmail.com](mailto:maha21.kanagaraj@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/maha-lakshmi-5ab962270](https://www.linkedin.com/in/maha-lakshmi-5ab962270)  
+- 🧑‍💻 GitHub: [github.com/maha-lakshme](https://github.com/maha-lakshme)  
+- 🌐 Portfolio: [maha-devsphere.my.canva.site/portfolio](https://maha-devsphere.my.canva.site/portfolio)
 
-- [LinkedIn] (https://www.linkedin.com/in/maha-lakshmi-5ab962270/)
-- Email: [maha21.kanagaraj@gmail.com]
+---
