@@ -62,7 +62,7 @@ Currently based in **Singapore**.
 
 * 📧 **Email:** [maha21.kanagaraj@gmail.com](mailto:maha21.kanagaraj@gmail.com)
 * 🔗 **LinkedIn:** [linkedin.com/in/maha-lakshmi-5ab962270](https://www.linkedin.com/in/maha-lakshmi-5ab962270)
-* 🐦 **Twitter:** [@MahaDevSG](https://twitter.com/MahaDevSG) *(Connect with me for Mobile & Web3 chat)*
+* 🐦 **Twitter:** [@NandhuSofi](https://twitter.com/MahaDevSG) *(Connect with me for Mobile & Web3 chat)*
 * 🌐 **Portfolio:** [maha-devsphere.my.canva.site](https://maha-devsphere.my.canva.site/portfolio)
 
 ![Maha's GitHub stats](https://github-readme-stats.vercel.app/api?username=maha-lakshme&show_icons=true&theme=radical)
