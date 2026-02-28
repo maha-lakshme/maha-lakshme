@@ -2,8 +2,7 @@
 
 ### 📱 Dual-Stack Mobile Engineer (Native Kotlin & Flutter)
 
-I am a **Master’s qualified (MCA)** Mobile Engineer with ~5 years of experience bridging the gap between **Native Android performance** and **Flutter development speed**. I specialize in building offline-first architectures, secure authentication flows, and AI-powered mobile experiences.
-
+I am a **Master’s qualified (MCA)** Mobile Engineer with ~5 years of experience bridging the gap between **Native Android performance** and **Flutter development speed**.
 Currently based in **Singapore**.
 
 ---
