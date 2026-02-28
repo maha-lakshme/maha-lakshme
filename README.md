@@ -3,7 +3,7 @@
 ### 📱 Dual-Stack Mobile Engineer (Native Kotlin & Flutter)
 
 I am a **Master’s qualified (MCA)** Mobile Engineer with ~5 years of experience bridging the gap between **Native Android performance** and **Flutter development speed**.
-Currently based in **Singapore**.
+
 
 ---
 
@@ -23,10 +23,9 @@ Currently based in **Singapore**.
 ## 💼 Featured Projects
 
 ### 🛠️ [SeekHelpers](https://apps.apple.com/sg/app/seekhelpers-hire-helper/id6746694343) | *Production App*
-**Tech:** Flutter, Azure DevOps, Stripe, StoreKit, Social Auth
+**Tech:** Flutter, Stripe, StoreKit, Social Auth
 * **Enterprise-Grade:** Engineered the company’s cross-platform job matching app (iOS/Android).
-* **Payments:** Integrated **Stripe** and **Apple StoreKit** for secure multi-tier subscriptions.
-* **DevOps:** Managed automated build pipelines and releases via **Azure DevOps**.
+* **Payments:** Integrated **Apple StoreKit** for secure multi-tier subscriptions.
 
 ### 🔐 [DriveNotes](https://github.com/maha-lakshme/DriveNotes) | *Security & Cloud*
 **Tech:** Flutter, Google Drive API, OAuth 2.0, Secure Storage
