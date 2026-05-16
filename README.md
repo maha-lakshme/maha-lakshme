@@ -1,7 +1,7 @@
 <!-- Animated header with typing effect -->
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Maha%20Lakshmi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dual-Stack%20Mobile%20Engineer%20%E2%80%A2%20Singapore&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Maha%20Lakshmi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Engineer%20%E2%80%A2%20Singapore&descAlignY=58&descSize=18" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=2E75B6&center=true&vCenter=true&width=700&lines=Native+Android+%E2%80%A2+Kotlin+%E2%80%A2+Jetpack;Flutter+%E2%80%A2+Dart+%E2%80%A2+Cross-Platform;Real-Time+Chat+%E2%80%A2+WebRTC+%E2%80%A2+HLS+Streaming;Applied+AI+%E2%80%A2+Gemini+%E2%80%A2+ML+Kit;4%2B+Years+Shipping+Production+Mobile+Apps" alt="Typing Banner" />
@@ -11,7 +11,6 @@
 
 <br/>
 
-<!-- Quick stats badges -->
 <div align="center">
 
   <img src="https://img.shields.io/badge/Singapore-Available_Immediately-2E75B6?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -217,20 +216,18 @@ Movies and TV browser built on layered MVVM Clean Architecture with Jetpack comp
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maha-lakshme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maha-lakshme&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maha-lakshme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maha-lakshme&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" />
 
 </div>
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maha-lakshme&theme=tokyonight&hide_border=true" />
-
-</div>
+<br/>
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=maha-lakshme&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
+  <a href="https://github.com/maha-lakshme">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maha-lakshme&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  </a>
 
 </div>
 
