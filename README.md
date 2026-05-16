@@ -215,14 +215,19 @@ Movies and TV browser built on layered MVVM Clean Architecture with Jetpack comp
 ## <img src="https://media.giphy.com/media/W5SmI3WkjxU2dhA8tT/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maha-lakshme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maha-lakshme&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" />
 
-  <img height="180em" src="https://github-stats.com/api/card/?login=maha-lakshme&theme=tokyonight&hide_border=true" />
+</div>
 
+<br/>
+
+<div align="center">
+  
   <a href="https://github.com/maha-lakshme">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=maha-lakshme&theme=tokyo-night&hide_border=true&area=true" width="95%" />
   </a>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maha-lakshme&theme=tokyonight" width="95%" />
 
 </div>
 
